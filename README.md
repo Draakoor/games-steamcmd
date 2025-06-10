@@ -88,6 +88,7 @@
 * [Rust](rust)
   * [Autowipe](rust/rust_autowipe)
   * [Staging](rust/rust_staging)
+* [S&box](s&box)
 * [Satisfactory](satisfactory)
 * [SCP: Secret Laboratory](scpsl)
   * [Dedicated](scpsl/dedicated)
